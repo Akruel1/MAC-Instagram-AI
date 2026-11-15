@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "name": "reach",
+      "period": "day",
+      "values": [{ "value": 120, "end_time": "2026-11-14T08:00:00+0000" }],
+      "title": "Reach",
+      "description": "Unique accounts that saw your content"
+    },
+    {
+      "name": "views",
+      "period": "day",
+      "values": [{ "value": 400, "end_time": "2026-11-14T08:00:00+0000" }],
+      "title": "Views",
+      "description": "Total views"
+    }
+  ]
+}

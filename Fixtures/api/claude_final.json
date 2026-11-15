@@ -1,0 +1,14 @@
+{
+  "id": "msg_fixture_002",
+  "type": "message",
+  "role": "assistant",
+  "model": "claude-sonnet-4-5",
+  "content": [
+    {
+      "type": "text",
+      "text": "Observed metrics are incomplete. Based only on provided tool results, I cannot invent statistics. Missing: reach, views."
+    }
+  ],
+  "stop_reason": "end_turn",
+  "usage": { "input_tokens": 200, "output_tokens": 60 }
+}

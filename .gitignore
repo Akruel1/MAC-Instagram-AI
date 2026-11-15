@@ -1,0 +1,82 @@
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Swift / SPM
+.build/
+.swiftpm/
+Packages/
+Package.resolved.bak
+
+# Local packaging outputs
+/build/
+/dist/
+/release-artifacts/
+*.dmg
+*.app.zip
+
+# Xcode
+xcuserdata/
+DerivedData/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Internal development documentation (keep local; do not publish)
+/docs/
+**/phase-*-audit.md
+**/phase-*-screenshots/
+**/*-audit.md
+
+# Temporary / scratch
+Temp/
+tmp/
+*.tmp
+*.log
+crash-*.ips
+
+# Secrets and environment
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.p8
+*.cer
+*.cert
+*.key
+*_secret*
+*credentials*.json
+AuthKey_*.p8
+GoogleService-Info.plist
+
+# Local databases and runtime data
+*.sqlite
+*.sqlite-*
+*.db
+Application Support/
+Library/
+
+# User-supplied raw icon masters with non-ASCII names (canonical copy lives in Resources/)
+/Золотая иконка видеомонтажа.png
+Resources/AppIcon/AppIcon.iconset/
+
+# Screenshots (internal)
+*.screenshot.png
+Screenshots/
+screenshots/
+
+# IDE / editor
+.idea/
+.vscode/
+*.code-workspace
+
+# Cursor / agent local
+.cursor/
+agent-transcripts/
