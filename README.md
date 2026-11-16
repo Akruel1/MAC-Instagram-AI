@@ -14,13 +14,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Akruel1/MAC-Instagram-AI/releases/latest/download/InstagramAIStudio-0.3.0-macOS-Intel-x86_64.dmg"><strong>Download for Intel Mac</strong></a>
+  <a href="https://github.com/Akruel1/MAC-Instagram-AI/releases/download/v0.3.0/InstagramAIStudio-0.3.0-macOS-Intel-x86_64.dmg"><strong>Download for Intel Mac</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Akruel1/MAC-Instagram-AI/releases/latest/download/InstagramAIStudio-0.3.0-macOS-AppleSilicon-arm64.dmg"><strong>Download for Apple Silicon</strong></a>
+  <a href="https://github.com/Akruel1/MAC-Instagram-AI/releases/download/v0.3.0/InstagramAIStudio-0.3.0-macOS-AppleSilicon-arm64.dmg"><strong>Download for Apple Silicon</strong></a>
 </p>
 
 <p align="center">
-  <sub>Release assets become active after the first published GitHub Release. Filenames must match exactly.</sub>
+  <sub>Direct links to the v0.3.0 release assets. Filenames must match exactly.</sub>
 </p>
 
 ---
